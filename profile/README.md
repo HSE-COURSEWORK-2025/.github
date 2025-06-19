@@ -17,6 +17,8 @@
 - **Веб-приложение**: [http://hse-coursework-health.ru/](http://hse-coursework-health.ru/)
 - **Мобильное приложение**: Доступно для Android 
 
+[!img](https://github.com/HSE-COURSEWORK-2025/.github/blob/main/image.png?raw=true)
+
 ### API сервисы
 | Сервис | URL | Документация |
 |--------|-----|--------------|
