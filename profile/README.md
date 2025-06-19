@@ -1,9 +1,9 @@
 # HSE Coursework Health 🩺
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+[![License](http://img.shields.io/badge/License-Apache_2.0-blue.svg)](http://opensource.org/licenses/Apache-2.0)
+![Kubernetes](http://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Python](http://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![React](http://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
 Сервис для анализа данных с носимых датчиков для мониторинга здоровья. Платформа собирает, обрабатывает и визуализирует медицинские показатели с возможностью выявления аномалий и прогнозирования рисков для здоровья.
 
