@@ -83,4 +83,4 @@
 
 По всем вопросам обращайтесь к автору проекта:
 - **Telegram**: [@igmalysh](https://t.me/igmalysh)
-- **Email**: [igmalysh@gmail.com](mailto:iimalysh@edu.hse.ru)
+- **Email**: [iimalysh@edu.hse.ru](mailto:iimalysh@edu.hse.ru)
