@@ -1,28 +1,30 @@
-# HSE Coursework Health 🩺
-
-![Kubernetes](http://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-![Python](http://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![React](http://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-
 Сервис для анализа данных с носимых датчиков для мониторинга здоровья. Платформа собирает, обрабатывает и визуализирует медицинские показатели, выявляет аномалии и прогнозирует риски для здоровья.
+
+![Kubernetes](http://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Python](http://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![React](http://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
 **Демо**: [http://hse-coursework-health.ru/](http://hse-coursework-health.ru/)
 > Если сайт не открывается по доменному имени, пожалуйста, напишите автору в Telegram: [@igmalysh](https://t.me/igmalysh)
+
+## 🎬 Демонстрация работы сервиса
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HSE-COURSEWORK-2025/.github/main/demo.gif" alt="Demo GIF" width="600" />
+</p>
 
 ## 🚀 Доступ к демо
 
 ### Для тестирования системы:
 1. **Вы можете создать/войти в тестовый аккаунт на странице входа**
-  - будут работать все функции кроме выгрузки из google fitness api, можно будет выгружать данные со смортфона
+   - будут работать все функции, кроме выгрузки из Google Fitness API; можно будет выгружать данные со смартфона
 
 2. **Доступ через Google OAuth**:
    - Для входа через Google аккаунт необходимо связаться с автором проекта
    - Автор добавит ваш email в whitelist Google Cloud Console
    - Контакт для доступа: [@igmalysh](https://t.me/igmalysh)
 
-3. **Демо-аккаунт**  
+3. **Демо-аккаунт**
    — На странице входа просто нажмите кнопку **«Войти в демо-аккаунт»**.
-   
+
 ## Основные компоненты системы
 
 ### Пользовательские интерфейсы
@@ -30,30 +32,26 @@
 - **Мобильное приложение**: Доступно для Android 
 
 <p align="center">
-  <img
-    src="https://github.com/HSE-COURSEWORK-2025/.github/blob/main/image.png?raw=true"
-    alt="Мобильное приложение"
-    width="300"
-  />
+  <img src="https://github.com/HSE-COURSEWORK-2025/.github/blob/main/image.png?raw=true" alt="Мобильное приложение" width="300"  />
 </p>
 
 ### API сервисы
-| Сервис | URL | Документация |
-|--------|-----|--------------|
-| Auth API | http://hse-coursework-health.ru/auth-api | [Swagger](http://hse-coursework-health.ru/auth-api/docs) |
-| Data Collection API | http://hse-coursework-health.ru/data-collection-api | [Swagger](http://hse-coursework-health.ru/data-collection-api/docs) |
-| Results Provider API | http://hse-coursework-health.ru/results-provider | [Swagger](http://hse-coursework-health.ru/results-provider/docs) |
-| Notifications API | http://hse-coursework-health.ru/notifications-api | [Swagger](http://hse-coursework-health.ru/notifications-api/docs) |
-| Ratings API | http://hse-coursework-health.ru/ratings-api | [Swagger](http://hse-coursework-health.ru/ratings-api/docs) |
+| Сервис                | URL                                                    | Документация                                               |
+|-----------------------|--------------------------------------------------------|------------------------------------------------------------|
+| Auth API              | http://hse-coursework-health.ru/auth-api               | [Swagger](http://hse-coursework-health.ru/auth-api/docs)    |
+| Data Collection API   | http://hse-coursework-health.ru/data-collection-api    | [Swagger](http://hse-coursework-health.ru/data-collection-api/docs) |
+| Results Provider API  | http://hse-coursework-health.ru/results-provider       | [Swagger](http://hse-coursework-health.ru/results-provider/docs) |
+| Notifications API     | http://hse-coursework-health.ru/notifications-api      | [Swagger](http://hse-coursework-health.ru/notifications-api/docs) |
+| Ratings API           | http://hse-coursework-health.ru/ratings-api            | [Swagger](http://hse-coursework-health.ru/ratings-api/docs)  |
 
 ### Инструменты администрирования
-| Инструмент | URL | Доступ |
-|------------|-----|--------|
-| Apache Airflow | http://hse-coursework-health.ru/airflow | `admin:admin` |
-| Kafka UI | http://hse-coursework-health.ru/kafka-ui | Публичный |
-| Grafana | http://hse-coursework-health.ru/grafana | `admin:admin` |
+| Инструмент            | URL                                                    | Доступ       |
+|-----------------------|--------------------------------------------------------|--------------|
+| Apache Airflow        | http://hse-coursework-health.ru/airflow                | `admin:admin`|
+| Kafka UI              | http://hse-coursework-health.ru/kafka-ui               | Публичный    |
+| Grafana               | http://hse-coursework-health.ru/grafana                | `admin:admin`|
 
-> Если какой то из серисов не открывается, пожалуйста, напишите автору в Telegram: [@igmalysh](https://t.me/igmalysh)
+> Если какой-то из сервисов не открывается, пожалуйста, напишите автору в Telegram: [@igmalysh](https://t.me/igmalysh)
 
 ## Технологический стек
 
