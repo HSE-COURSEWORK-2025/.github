@@ -68,7 +68,7 @@
 
 Пример отчета, сгенерированного приложением:
 
-[Пример отчета (PDF)](https://raw.githubusercontent.com/HSE-COURSEWORK-2025/docs/main/report_example.pdf)
+[Пример отчета (PDF)](https://github.com/HSE-COURSEWORK-2025/docs/blob/main/report_example.pdf)
 
 ## ⚠️ Важная информация
 
