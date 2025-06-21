@@ -40,7 +40,6 @@
 |-----------------------|--------------------------------------------------------|------------------------------------------------------------|
 | Auth API              | http://hse-coursework-health.ru/auth-api               | [Swagger](http://hse-coursework-health.ru/auth-api/docs)    |
 | Data Collection API   | http://hse-coursework-health.ru/data-collection-api    | [Swagger](http://hse-coursework-health.ru/data-collection-api/docs) |
-| Results Provider API  | http://hse-coursework-health.ru/results-provider       | [Swagger](http://hse-coursework-health.ru/results-provider/docs) |
 | Notifications API     | http://hse-coursework-health.ru/notifications-api      | [Swagger](http://hse-coursework-health.ru/notifications-api/docs) |
 | Ratings API           | http://hse-coursework-health.ru/ratings-api            | [Swagger](http://hse-coursework-health.ru/ratings-api/docs)  |
 
