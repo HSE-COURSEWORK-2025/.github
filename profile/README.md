@@ -25,7 +25,7 @@
 3. **Демо-аккаунт**
    — На странице входа просто нажмите кнопку **«Войти в демо-аккаунт»**.
 
-## Основные компоненты системы
+## 🧩 Основные компоненты системы
 
 ### Пользовательские интерфейсы
 - **Веб-приложение**: [http://hse-coursework-health.ru/](http://hse-coursework-health.ru/)
@@ -53,7 +53,7 @@
 
 > Если какой-то из сервисов не открывается, пожалуйста, напишите автору в Telegram: [@igmalysh](https://t.me/igmalysh)
 
-## Технологический стек
+## 🛠️ Технологический стек
 
 - **Бекенд**: Python 3.10, FastAPI
 - **Фронтенд**: React, TypeScript, Recharts
@@ -63,6 +63,48 @@
 - **Оркестрация**: Kubernetes, Docker
 - **ML**: Scikit-learn, Pandas, NumPy
 - **Мониторинг**: Grafana, Prometheus
+
+## 🗂️ Репозитории проекта
+
+### API-сервисы
+| Репозиторий | Описание |
+|-------------|----------|
+| [hse-coursework-auth-api](https://github.com/HSE-COURSEWORK-2025/hse-coursework-auth-api) | Сервис аутентификации и авторизации пользователей |
+| [hse-coursework-notifications-api](https://github.com/HSE-COURSEWORK-2025/hse-coursework-notifications-api) | Сервис для отправки уведомлений пользователям |
+| [hse-coursework-backend-data-collection-service](https://github.com/HSE-COURSEWORK-2025/hse-coursework-backend-data-collection-service) | Сервис сбора и хранения данных с устройств |
+| [hse-coursework-ratings-api](https://github.com/HSE-COURSEWORK-2025/hse-coursework-ratings-api) | Сервис рейтингов и отзывов пользователей |
+| [hse-coursework-backend-fetch-google-api-data](https://github.com/HSE-COURSEWORK-2025/hse-coursework-backend-fetch-google-api-data) | Импорт данных из Google Fitness API |
+| [hse-coursework-backend-ml-predictions](https://github.com/HSE-COURSEWORK-2025/hse-coursework-backend-ml-predictions) | ML-сервис для предсказаний рисков |
+| [hse-coursework-backend-find-outliers](https://github.com/HSE-COURSEWORK-2025/hse-coursework-backend-find-outliers) | Сервис для поиска аномалий в данных |
+| [hse-coursework-backend-prepare-data](https://github.com/HSE-COURSEWORK-2025/hse-coursework-backend-prepare-data) | Препроцессинг и подготовка данных |
+
+### Фронтенд и мобильное приложение
+| Репозиторий | Описание |
+|-------------|----------|
+| [hse-coursework-front](https://github.com/HSE-COURSEWORK-2025/hse-coursework-front) | Веб-интерфейс пользователя |
+| [hse-coursework-android-app](https://github.com/HSE-COURSEWORK-2025/hse-coursework-android-app) | Мобильное приложение для Android |
+
+### DAG-и и асинхронные задачи
+| Репозиторий | Описание |
+|-------------|----------|
+| [hse-coursework-dags](https://github.com/HSE-COURSEWORK-2025/hse-coursework-dags) | DAGs для Apache Airflow, автоматизация ETL и ML пайплайнов |
+| [hse-coursework-drammatiq-data-collector](https://github.com/HSE-COURSEWORK-2025/hse-coursework-drammatiq-data-collector) | Асинхронный сбор данных с помощью Dramatiq |
+
+### Инфраструктурные сервисы
+| Репозиторий | Описание |
+|-------------|----------|
+| [hse-coursework-airflow](https://github.com/HSE-COURSEWORK-2025/hse-coursework-airflow) | Деплой и конфигурация Apache Airflow |
+| [hse-coursework-redis](https://github.com/HSE-COURSEWORK-2025/hse-coursework-redis) | Конфигурация и деплой Redis |
+| [hse-coursework-kafka](https://github.com/HSE-COURSEWORK-2025/hse-coursework-kafka) | Деплой и настройка Apache Kafka |
+| [hse-coursework-kubernetes-config](https://github.com/HSE-COURSEWORK-2025/hse-coursework-kubernetes-config) | Kubernetes-манифесты для развертывания сервисов |
+| [hse-coursework-grafana](https://github.com/HSE-COURSEWORK-2025/hse-coursework-grafana) | Дашборды и мониторинг в Grafana |
+| [network-stuff](https://github.com/HSE-COURSEWORK-2025/network-stuff) | Сетевые настройки |
+
+### ML, данные и документация
+| Репозиторий | Описание |
+|-------------|----------|
+| [hse-coursework-ml-models](https://github.com/HSE-COURSEWORK-2025/hse-coursework-ml-models) | ML-модели и эксперименты |
+| [docs](https://github.com/HSE-COURSEWORK-2025/docs) | Документация и примеры отчетов |
 
 ## 📄 Пример PDF-отчета
 
@@ -83,7 +125,7 @@
 
 Все данные в системе являются тестовыми и не содержат реальной медицинской информации о пациентах.
 
-## Контактная информация
+## 📬 Контактная информация
 
 По всем вопросам обращайтесь к автору проекта:
 - **Telegram**: [@igmalysh](https://t.me/igmalysh)
