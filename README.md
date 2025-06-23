@@ -82,7 +82,7 @@
   </p>
 
 - **Мониторинг инфраструктуры**  
-  Слежение за состоянием микросеврвисов.
+  Слежение за состоянием микросервисов.
 
   <p align="center">
     <img src="https://github.com/HSE-COURSEWORK-2025/hse-coursework-grafana/blob/master/grafana_demo_2.jpg?raw=true" alt="Grafana – инфраструктура" width="600" />
