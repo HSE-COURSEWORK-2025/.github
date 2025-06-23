@@ -109,6 +109,10 @@
 | [hse-coursework-kubernetes-config](https://github.com/HSE-COURSEWORK-2025/hse-coursework-kubernetes-config) | Kubernetes-манифесты для развертывания сервисов |
 | [hse-coursework-grafana](https://github.com/HSE-COURSEWORK-2025/hse-coursework-grafana) | Дашборды и мониторинг в Grafana |
 | [network-stuff](https://github.com/HSE-COURSEWORK-2025/network-stuff) | Сетевые настройки |
+| [hse-coursework-loki](https://github.com/HSE-COURSEWORK-2025/hse-coursework-loki) | Конфигурация и деплой Loki для сбора логов |
+| [hse-coursework-tempo](https://github.com/HSE-COURSEWORK-2025/hse-coursework-tempo) | Конфигурация и деплой Tempo для распределенной трассировки |
+| [hse-coursework-prometheus](https://github.com/HSE-COURSEWORK-2025/hse-coursework-prometheus) | Конфигурация и деплой Prometheus для сбора метрик |
+
 
 ### ML, данные и документация
 | Репозиторий | Описание |
