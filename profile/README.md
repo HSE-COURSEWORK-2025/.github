@@ -80,10 +80,6 @@
 | [hse-coursework-notifications-api](https://github.com/HSE-COURSEWORK-2025/hse-coursework-notifications-api) | Сервис для отправки уведомлений пользователям |
 | [hse-coursework-backend-data-collection-service](https://github.com/HSE-COURSEWORK-2025/hse-coursework-backend-data-collection-service) | Сервис сбора и хранения данных с устройств |
 | [hse-coursework-ratings-api](https://github.com/HSE-COURSEWORK-2025/hse-coursework-ratings-api) | Сервис рейтингов и отзывов пользователей |
-| [hse-coursework-backend-fetch-google-api-data](https://github.com/HSE-COURSEWORK-2025/hse-coursework-backend-fetch-google-api-data) | Импорт данных из Google Fitness API |
-| [hse-coursework-backend-ml-predictions](https://github.com/HSE-COURSEWORK-2025/hse-coursework-backend-ml-predictions) | ML-сервис для предсказаний рисков |
-| [hse-coursework-backend-find-outliers](https://github.com/HSE-COURSEWORK-2025/hse-coursework-backend-find-outliers) | Сервис для поиска аномалий в данных |
-| [hse-coursework-backend-prepare-data](https://github.com/HSE-COURSEWORK-2025/hse-coursework-backend-prepare-data) | Препроцессинг и подготовка данных |
 
 ### Фронтенд и мобильное приложение
 | Репозиторий | Описание |
@@ -91,11 +87,18 @@
 | [hse-coursework-front](https://github.com/HSE-COURSEWORK-2025/hse-coursework-front) | Веб-интерфейс пользователя |
 | [hse-coursework-android-app](https://github.com/HSE-COURSEWORK-2025/hse-coursework-android-app) | Мобильное приложение для Android |
 
-### DAG-и и асинхронные задачи
+### DAG-и
 | Репозиторий | Описание |
 |-------------|----------|
-| [hse-coursework-dags](https://github.com/HSE-COURSEWORK-2025/hse-coursework-dags) | DAGs для Apache Airflow, автоматизация ETL и ML пайплайнов |
+| [hse-coursework-backend-fetch-google-api-data](https://github.com/HSE-COURSEWORK-2025/hse-coursework-backend-fetch-google-api-data) | Импорт данных из Google Fitness API |
+| [hse-coursework-backend-ml-predictions](https://github.com/HSE-COURSEWORK-2025/hse-coursework-backend-ml-predictions) | ML-сервис для предсказаний рисков |
+| [hse-coursework-backend-find-outliers](https://github.com/HSE-COURSEWORK-2025/hse-coursework-backend-find-outliers) | Сервис для поиска аномалий в данных |
+| [hse-coursework-backend-prepare-data](https://github.com/HSE-COURSEWORK-2025/hse-coursework-backend-prepare-data) | Препроцессинг и подготовка данных |
+
+
+### Асинхронные задачи
 | [hse-coursework-drammatiq-data-collector](https://github.com/HSE-COURSEWORK-2025/hse-coursework-drammatiq-data-collector) | Асинхронный сбор данных с помощью Dramatiq |
+
 
 ### Инфраструктурные сервисы
 | Репозиторий | Описание |
