@@ -97,6 +97,8 @@
 
 
 ### Асинхронные задачи
+| Репозиторий | Описание |
+|-------------|----------|
 | [hse-coursework-drammatiq-data-collector](https://github.com/HSE-COURSEWORK-2025/hse-coursework-drammatiq-data-collector) | Асинхронный сбор данных с помощью Dramatiq |
 
 
