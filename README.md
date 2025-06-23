@@ -69,7 +69,7 @@
 - **Очереди**: Apache Kafka
 - **Оркестрация**: Kubernetes, Docker
 - **ML**: Scikit-learn, Pandas, NumPy
-- **Мониторинг**: Grafana, Prometheus
+- **Мониторинг**: Grafana, Prometheus, Grafana Tempo, Grafana Loki
 
 
 ## 📊 Мониторинг бизнес-метрик и инфраструктуры
