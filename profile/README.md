@@ -71,6 +71,23 @@
 - **ML**: Scikit-learn, Pandas, NumPy
 - **Мониторинг**: Grafana, Prometheus
 
+
+## 📊 Мониторинг бизнес-метрик и инфраструктуры
+
+- **Мониторинг бизнес-метрик**  
+  Слежение за ключевыми показателями эффективности.
+
+  <p align="center">
+    <img src="https://github.com/HSE-COURSEWORK-2025/hse-coursework-grafana/blob/master/grafana_demo_1.jpg?raw=true" alt="Grafana – бизнес-метрики" width="600" />
+  </p>
+
+- **Мониторинг инфраструктуры**  
+  Слежение за состоянием микросервисов.
+
+  <p align="center">
+    <img src="https://github.com/HSE-COURSEWORK-2025/hse-coursework-grafana/blob/master/grafana_demo_2.jpg?raw=true" alt="Grafana – инфраструктура" width="600" />
+  </p>
+
 ## 🗂️ Репозитории проекта
 
 ### API-сервисы
